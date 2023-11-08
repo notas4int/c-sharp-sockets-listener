@@ -1,0 +1,6 @@
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\listener\listener\bin\Debug\listener.exe
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\listener\listener\bin\Debug\listener.pdb
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\listener\listener\obj\Debug\listener.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\listener\listener\obj\Debug\listener.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\listener\listener\obj\Debug\listener.exe
+C:\Users\artem\OneDrive\Рабочий стол\documents\lebedev\C#_web\listener\listener\obj\Debug\listener.pdb
